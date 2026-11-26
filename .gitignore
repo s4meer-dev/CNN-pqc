@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# C / C++ / Contiki-NG / Cooja build artifacts
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+build/
+COOJA.log
+COOJA.testlog
+*.pcap
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary scratch / large raw dumps
+*.tmp
+*.log
